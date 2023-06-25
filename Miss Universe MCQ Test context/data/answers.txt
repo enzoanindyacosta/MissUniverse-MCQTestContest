@@ -1,0 +1,5 @@
+0,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,
+1,A,C,B,D,B,A,A,C,C,B,D,A,C,A,C,B,C,A,B,A,B,D,X,X,X,
+2,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,
+3,A,B,C,D,A,B,C,D,A,B,C,D,A,B,C,D,A,B,C,D,A,B,C,D,A,
+4,A,B,C,X,A,C,C,X,A,B,D,C,A,X,A,C,C,X,A,B,C,D,A,C,A,

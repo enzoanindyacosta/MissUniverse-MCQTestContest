@@ -1,0 +1,26 @@
+25
+1:A:Which continent is Timor-Leste in?:Asia:South America:Europe:Africa
+1:C:What currency does Timor-Leste use?:MYR:EUR:USD:TLD
+1:B:What is the official name of Timor-Leste?:Timor-Leste:Democratic Republic of Timor-Leste:East Timor:Timor-Leste Federation
+3:D:Which is the flag of Timor-Leste?:Ecuador.png:PapaNewGuinea.png:Suriname.png:EastTimor.png
+2:B:What country is located here?:TimorLesteMap.png:Indonesia:Timor-Leste:Papa New Guinea:Brunei
+1:A:What is the full name of Togo?:Togolease:Togolasia:Togolese Republic:Togo Pogo 
+1:A:What is the backbone of the econonmy in togo?:Mining:Entertainment:Agriculture:Industrial 
+3:C:What is the national flower of Togo?:flawa1.png.jpg:flawa2.png.jpg:togoflawa.png.jpg:flawa3.png.jpg
+3:C:What is the national dish of Togo.:food1.png.jpg:togofood.png.jpg:food2.png.jpg:food3.png.jpg 
+2:B:What city of Togo is this?:Lome.png.jpg:Lome:Sokode:Kara:Notse
+1:D:What is the capital of the Syrian Arab Republic?:Latakia:Raqqa:Aleppo:Damascus
+2:A:What is the name of this attraction in the Syrian Arab Republic?:palymra.png:Palymra:Aleppo Old Town:Al-Hamidiyah Souq:Krak Des Chevaliers
+3:C:Which one of these is known as the Great Mosque of Damascus?:Aleppo.jpg:palymra.jpg:UmayyadMosque.jpg:mosque.jpg
+1:A:Who is the current President of the Syrian Arab Republic?:Bashar al-Assad:Nureddin al-Atassi:Farouk al-Sharaa:Hussein Arnous
+2:C:This is known as the Tomb of the Unknown Soldier. Where is it located?:tombofunknownsoldier.jpg:Spain:Lebanon:Syria:Tajikistan
+1:B:Which is the largest lake in Tajikistan?:Lake Baikal:Lake karakul:Caspian Sea:Rousin Lake
+2:C:Which is the currency of Tajikistan?:somoni.jpg:Rupee:Bath:Somoni:USD
+3:A:Who was Tajikistan prime minister in 2004?:Oqil_Oqilov.jpeg:yakub_salimov.jpg:iskandarov.jpg:putin.jpg
+1:B:What is the inter-ethnic language of Tajikistan?:Bangla:Russian:Uzbek:Somalian
+1:A:Which country is the south of Tajikistan?:Afghanistan:Russia:Iran:Ukraine
+1:B:Geographically, Thailand covers an area of how many square kilometers?:420,000sq.km:513,120sq.km:800,230sq,km:90,000sq.km
+3:D:Which is the second largest island in Thailand?:kohtao.jpg:phuket.jpg:kohsamui.jpg:kohchang.jpg
+1:A:Which of these bugs is considered a delicacy in Thailand?:Cricket:Housefly:Mosquito:Maggots
+1:C:Thailand consists of how many provinces?:31:79:77:67
+3:C:What is Thailand’s national sport?:takraw.jpg:footballsoccer.jpg:muaythai.jpg:basketball.jpg
